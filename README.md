@@ -3,7 +3,7 @@ Phonegap : Download the image into Hidden folder
 
 Here we download the image into "data" folder inside the package
 
-we are using to plugin "File" and "File Transfer"
+we are using two plugin "File" and "File Transfer"
 
 Plugin "File" is using for accessing the data folder path
 
