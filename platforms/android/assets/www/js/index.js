@@ -17,7 +17,7 @@ function DownloadFile(URL, Folder_Name, File_Name) {
  	 }
 	else 
 	{
-  	  var networkState = navigator.connection.type;
+  	  //var networkState = navigator.connection.type;
   	  download(URL, Folder_Name, File_Name); //If available download function call
   	}
 }
